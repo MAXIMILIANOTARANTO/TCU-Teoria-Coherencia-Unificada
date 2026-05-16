@@ -10,11 +10,11 @@
 
 Este proyecto se construye de forma **modular, incremental y cronológica**. Cada sección se agrega sin borrar contenido anterior. Solo se integra y refina.
 
-### Índice General (en desarrollo)
+### Índice General
 
 | # | Sección | Archivo | Estado | Descripción |
 |---|------------|---------|--------|------------------|
-| 1 | **Hipótesis Ontológica** | `01_Hipotesis_Ontologica.md` | Pendiente | Hipótesis central: existencia de estructura matemática subyacente común |
+| 1 | **Hipótesis Ontológica** | [`01_Hipotesis_Ontologica.md`](01_Hipotesis_Ontologica.md) | ✅ Creado | Hipótesis central: existencia de estructura matemática subyacente común |
 | 2 | **Idea Central y Contexto** | `02_Idea_Central.md` | Pendiente | Marco conceptual del experimento |
 | 3 | **Metodología** | `03_Metodologia.md` | Pendiente | Protocolo TCU, datos reales y validación E3 |
 | 4 | **Resultados por Dominio** | `04_Resultados.md` | Pendiente | Tablas de AUC, E3 y métricas |
@@ -30,7 +30,7 @@ Este proyecto se construye de forma **modular, incremental y cronológica**. Cad
 
 ## Estado Actual
 
-- **Hipótesis ontológica**: Formulada y refinada
+- **Hipótesis ontológica**: Formulada y refinada ✅
 - **Validación empírica**: Completada en 10 dominios con datos reales públicos
 - **Resultados principales**: 7 de 10 dominios con PASE claro (AUC promedio: 0.78)
 - **Enfoque metodológico**: Modesto, reproducible, falsable y honesto con las limitaciones
